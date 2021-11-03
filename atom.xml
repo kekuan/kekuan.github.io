@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kekuan.github.io</id>
     <title>Kekuan</title>
-    <updated>2021-11-03T12:49:28.624Z</updated>
+    <updated>2021-11-03T12:50:22.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kekuan.github.io"/>
     <link rel="self" href="https://kekuan.github.io/atom.xml"/>
@@ -11,12 +11,12 @@
     <icon>https://kekuan.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Kekuan</rights>
     <entry>
-        <title type="html"><![CDATA[测试]]></title>
+        <title type="html"><![CDATA[hi，欢迎来到我的博客]]></title>
         <id>https://kekuan.github.io/post/ce-shi/</id>
         <link href="https://kekuan.github.io/post/ce-shi/">
         </link>
         <updated>2021-11-03T10:51:19.000Z</updated>
-        <content type="html"><![CDATA[<p>5555</p>
+        <content type="html"><![CDATA[<p>kekuan的博客</p>
 ]]></content>
     </entry>
     <entry>
